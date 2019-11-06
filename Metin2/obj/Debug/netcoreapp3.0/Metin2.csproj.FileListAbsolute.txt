@@ -1,0 +1,11 @@
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.exe
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.deps.json
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.runtimeconfig.json
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.runtimeconfig.dev.json
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.dll
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\bin\Debug\netcoreapp3.0\Metin2.pdb
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\obj\Debug\netcoreapp3.0\Metin2.csprojAssemblyReference.cache
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\obj\Debug\netcoreapp3.0\Metin2.AssemblyInfoInputs.cache
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\obj\Debug\netcoreapp3.0\Metin2.AssemblyInfo.cs
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\obj\Debug\netcoreapp3.0\Metin2.dll
+C:\Users\User\projects\C#\Zajęcia\Metin2\Metin2\obj\Debug\netcoreapp3.0\Metin2.pdb
