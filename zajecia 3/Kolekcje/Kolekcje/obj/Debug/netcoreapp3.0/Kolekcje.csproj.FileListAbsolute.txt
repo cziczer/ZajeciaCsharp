@@ -1,0 +1,11 @@
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.exe
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.deps.json
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.runtimeconfig.json
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.runtimeconfig.dev.json
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.dll
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\bin\Debug\netcoreapp3.0\Kolekcje.pdb
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\obj\Debug\netcoreapp3.0\Kolekcje.csprojAssemblyReference.cache
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\obj\Debug\netcoreapp3.0\Kolekcje.AssemblyInfoInputs.cache
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\obj\Debug\netcoreapp3.0\Kolekcje.AssemblyInfo.cs
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\obj\Debug\netcoreapp3.0\Kolekcje.dll
+C:\Users\User\projects\C#\Zajęcia\Kolekcje\Kolekcje\obj\Debug\netcoreapp3.0\Kolekcje.pdb
