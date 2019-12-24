@@ -1,0 +1,40 @@
+c:\users\arek\documents\visual studio 2013\Projects\style\bin\Debug\style.exe.config
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.csprojResolveAssemblyReference.cache
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\MainWindow.baml
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\MainWindow.g.cs
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\App.g.cs
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style_MarkupCompile.cache
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.g.resources
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.Properties.Resources.resources
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.csproj.GenerateResource.Cache
+c:\users\arek\documents\visual studio 2013\Projects\style\bin\Debug\style.exe
+c:\users\arek\documents\visual studio 2013\Projects\style\bin\Debug\style.pdb
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.exe
+c:\users\arek\documents\visual studio 2013\Projects\style\obj\Debug\style.pdb
+C:\Users\MMast\Downloads\style\bin\Debug\style.exe.config
+C:\Users\MMast\Downloads\style\bin\Debug\style.exe
+C:\Users\MMast\Downloads\style\bin\Debug\style.pdb
+C:\Users\MMast\Downloads\style\obj\Debug\style.csprojAssemblyReference.cache
+C:\Users\MMast\Downloads\style\obj\Debug\MainWindow.baml
+C:\Users\MMast\Downloads\style\obj\Debug\MainWindow.g.cs
+C:\Users\MMast\Downloads\style\obj\Debug\App.g.cs
+C:\Users\MMast\Downloads\style\obj\Debug\style_MarkupCompile.cache
+C:\Users\MMast\Downloads\style\obj\Debug\style.g.resources
+C:\Users\MMast\Downloads\style\obj\Debug\style.Properties.Resources.resources
+C:\Users\MMast\Downloads\style\obj\Debug\style.csproj.GenerateResource.cache
+C:\Users\MMast\Downloads\style\obj\Debug\style.csproj.CoreCompileInputs.cache
+C:\Users\MMast\Downloads\style\obj\Debug\style.exe
+C:\Users\MMast\Downloads\style\obj\Debug\style.pdb
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\bin\Debug\style.exe.config
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\bin\Debug\style.exe
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\bin\Debug\style.pdb
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.csprojAssemblyReference.cache
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\MainWindow.baml
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\MainWindow.g.cs
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\App.g.cs
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style_MarkupCompile.cache
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.g.resources
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.Properties.Resources.resources
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.csproj.GenerateResource.cache
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.exe
+C:\Users\User\projects\C#\Zajęcia\1.zaje\style\obj\Debug\style.pdb
