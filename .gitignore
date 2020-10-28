@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Zajęcia 2/.vs/Metin2
+/Zajęcia 2/Metin2/bin/Debug/netcoreapp3.0
+/Zajęcia 2/Metin2/obj/Debug/netcoreapp3.0
+/Zajęcia 2/Metin2/obj
