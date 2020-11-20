@@ -94,9 +94,9 @@ namespace Metin2
             ninja.Hp -= _hasSword ? this.Damage * 2 : this.Damage;
         }
 
-        public override string ToString()
-        {
-            return "Wojownik " + this.Nick;
-        }
+        //public override string ToString()
+        //{
+        //    return "Wojownik " + this.Nick;
+        //}
     }
 }

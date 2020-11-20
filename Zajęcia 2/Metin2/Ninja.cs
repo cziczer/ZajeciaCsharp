@@ -16,6 +16,8 @@ namespace Metin2
         public int Damage { get; private set; }
         public string Nick { get; }
 
+        public Day LuckyDay;
+
         private int _luckyNumber;
 
         public int LuckyNumber
@@ -28,37 +30,38 @@ namespace Metin2
             }
         }
 
-        public Ninja(string nick)
-        {
-            this.Nick = nick;
-            this._level = 1;
-            this.Hp = 100;
-            this._maxHp = 100;
-            this._hasBow = false;
-            this.Damage = 10;
-            this.potions = new List<Potion>(){
-                new Potion(10),
-                new Potion(10),
-                new Potion(15),
-                new Potion(30), 
-            };
-        }
+        //public Ninja()
+        //{
+        //    this.Nick = "Tomek";
+        //    this._level = 1;
+        //    this.Hp = 100;
+        //    this._maxHp = 100;
+        //    this._hasBow = false;
+        //    this.Damage = 10;
+        //    this.potions = new List<Potion>(){
+        //        new Potion(10),
+        //        new Potion(10),
+        //        new Potion(15),
+        //        new Potion(30),
+        //    };
+        //}
 
-        public Ninja(string nick, int level, int hp, int dmg, bool hasBow)
-        {
-            this.Nick = nick;
-            this._level = level;
-            this._maxHp = hp;
-            this.Hp = hp;
-            this.Damage = dmg;
-            this._hasBow = hasBow;
-            this.potions = new List<Potion>(){
-                new Potion(10),
-                new Potion(10),
-                new Potion(15),
-                new Potion(30),
-            };
-        }
+        //public Ninja(string nick, int level, int hp, int dmg, bool hasBow)
+        //{
+        //    this.Nick = nick;
+        //    this._level = level;
+        //    this._maxHp = hp;
+        //    this.Hp = hp;
+        //    this.Damage = dmg;
+        //    this._hasBow = hasBow;
+        //    this.potions = new List<Potion>()
+        //    {
+        //        new Potion(10),
+        //        new Potion(10),
+        //        new Potion(15),
+        //        new Potion(30),
+        //    };
+        //}
 
         public void LevelUp()
         {
